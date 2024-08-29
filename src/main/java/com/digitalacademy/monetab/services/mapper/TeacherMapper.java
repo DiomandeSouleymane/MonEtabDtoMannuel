@@ -1,2 +1,2 @@
-package com.digitalacademy.monetab.services.mapper;public class TeacherMapper {
+package com.digitalacademy.monetab.services.mapper;public interface TeacherMapper {
 }
